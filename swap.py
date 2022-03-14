@@ -5,5 +5,5 @@ def ageChange(age1, age2):
         age1 = age2
         age2 = num
     return age1,age2
-print( ageChange(16, 21) )
-print ( ageChange(21, 16) ) 
+print( ageChange(3, 7) )
+print ( ageChange(7, 3) ) 
